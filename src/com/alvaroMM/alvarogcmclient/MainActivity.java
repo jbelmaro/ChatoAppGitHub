@@ -19,7 +19,7 @@ public class MainActivity extends Activity {
 	private final static int PLAY_SERVICES_RESOLUTION_REQUEST = 9000;
 	private final static String TAG = "MainActivity";
 	private static final String SENDER_ID = "761171306029";
-	//caca
+	//caca rama
 	
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
